@@ -1,0 +1,3 @@
+[submodule "datasets/SQuAD-LV"]
+	path = datasets/SQuAD-LV
+	url = https://github.com/tilde-nlp/SQuAD-LV.git
